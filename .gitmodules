@@ -1,0 +1,6 @@
+[submodule "GildedRose"]
+	path = GildedRose
+	url = https://github.com/always-ride/GildedRose
+[submodule "ROPinJava"]
+	path = ROPinJava
+	url = https://github.com/always-ride/ROPinJava
